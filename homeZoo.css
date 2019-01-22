@@ -50,7 +50,8 @@ html, body{
     .wrapper1{
         
         display: flex;
-        justify-content: flex-start:   
+        justify-content: center;
+
     }
 
 
@@ -58,7 +59,8 @@ html, body{
         font-size: 30px;
         display: flex;
         flex-direction: column;
-        
+       
+
     }
 
     .wrapper2{
